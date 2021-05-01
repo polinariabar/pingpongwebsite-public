@@ -1,6 +1,14 @@
 # pingpongwebsite-public
 (School21 project in progress) Ruby on Rails &amp; JavaScript website with built-in social network and online ping-pong
 
+<div style='width: 50%'>
+  hello
+</div>
+  
+<div style='width: 50%'>
+  hello!
+</div>
+
 # To launch remote
 http://35.217.11.253:3000
 
