@@ -1,5 +1,22 @@
 # pingpongwebsite-public
+---
 (School21 project in progress) Ruby on Rails &amp; JavaScript website with built-in social network and online ping-pong
+
+### Social Network
+ - Make friends
+ - Chat with friends
+ - Create chat channels
+ - Invite friends to games
+ - Invite friends in guilds
+ - Join or create guilds
+
+### PingPong
+ - play with friends
+ - play with random users
+ - earn points
+ - participate in guild wars
+ - participate in tournaments
+ - different game addons
 
 
 # To launch remote
